@@ -11,3 +11,5 @@ LangChain is a framework that solves this by allowing LLMs to interact with exte
 **Benefits of LangChain:**
 1. Abstraction (easy to switch between OpenAI, Gemini, HuggingFace).
 2. Built-in tools for memory, data retrieval, and complex chaining.
+
+The Big Picture: LangChain is an open-source framework designed to orchestrate and simplify the development of LLM-powered applications. It acts as an integration engine that connects upstream LLMs (OpenAI, Claude, Ollama) with downstream data infrastructure like vector databases and APIs without requiring massive boilerplate code.
